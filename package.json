@@ -1,6 +1,6 @@
 {
   "name": "citoplasm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CITOplasm is a TypeScript library for composable prompting.",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
